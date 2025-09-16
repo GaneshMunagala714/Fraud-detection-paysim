@@ -20,7 +20,10 @@ Focus: **extreme class imbalance**, **time-aware split**, **business-oriented th
 **Confusion Matrix (Test at threshold)**
 `[[TN, FP], [FN, TP]] = [[1268221, 49], [1051, 3203]]`
 
-<img src="artifacts/pr_curve_test.png" width="420"> <img src="artifacts/roc_curve_test.png" width="420">
+<img src="pr_curve_test.png" width="420"> <img src="roc_curve_test.png" width="420">
+
+<img src="confusion_matrix_test.png" width="420">
+
 
 ##  Data
 **PaySim** simulated financial transactions with labels:
